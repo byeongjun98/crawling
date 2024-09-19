@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df210bad-aef0-460e-903f-4fe68cfa9e21" name="변경" comment="파일 다운로드 경로 추가 및 에러 수정" />
+    <list default="true" id="df210bad-aef0-460e-903f-4fe68cfa9e21" name="변경" comment="gitignore  수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/parkbyeongjun/PycharmProjects/crawling/collect_meta",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +44,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/collect_meta" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="crawling" />
@@ -81,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726723965634</updated>
-      <workItem from="1726723967682" duration="6872000" />
+      <workItem from="1726723967682" duration="7081000" />
     </task>
     <task id="LOCAL-00001" summary="공공 데이터 포털 크롤링 리팩토링 및 리포 재생성">
       <option name="closed" value="true" />
@@ -99,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726756903539</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gitignore  수정">
+      <option name="closed" value="true" />
+      <created>1726757372096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726757372096</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +135,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="공공 데이터 포털 크롤링 리팩토링 및 리포 재생성" />
     <MESSAGE value="파일 다운로드 경로 추가 및 에러 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="파일 다운로드 경로 추가 및 에러 수정" />
+    <MESSAGE value="gitignore  수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore  수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
